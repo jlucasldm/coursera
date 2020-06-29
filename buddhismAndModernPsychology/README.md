@@ -1,6 +1,7 @@
-#Buddhism And Modern Psychology
+Buddhism And Modern Psychology
 
 Offered by Princeton University.
+
 Taught by Robert Wright, Visiting Professor of Science and Religion at Union Theological Seminary in the City of New York.
 When he created this course in 2014, Wright was a visiting lecturer in Princeton University’s religion department and at the University’s Center for Human Values. 
 He has also taught in the psychology department at Penn. He is the author, most recently, of The Evolution of God, which was a New York Times bestseller and a finalist 

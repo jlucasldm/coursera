@@ -1,4 +1,4 @@
-Buddhism And Modern Psychology
+# Buddhism And Modern Psychology
 
 Offered by Princeton University.
 

@@ -10,3 +10,5 @@ best books of 1994, and Nonzero, which Bill Clinton called “astonishing” and
 magazine as one of the top 100 global thinkers. Wright has written for The Atlantic, The New Yorker, The New York Times Magazine, Foreign Policy, and the op-ed pages of 
 The New York Times, The Washington Post, and The Financial Times. His books have been translated into more than a dozen languages, and his awards include the National 
 Magazine Award for Essay and Criticism. Wright is the editor-in-chief of the websites Bloggingheads.tv and MeaningofLife.tv.
+
+(This course doesn't provide certificates)

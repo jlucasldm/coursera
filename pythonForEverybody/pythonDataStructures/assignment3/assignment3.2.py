@@ -15,7 +15,7 @@
 
 fname = input("Enter file name: ")
 fh = open(fname)
-words = list
+words = list()
 emails = list()
 count = 0
 

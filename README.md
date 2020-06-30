@@ -9,10 +9,10 @@ Every material I produced in all courses (and its certificates) enrolled by me d
 - Programming for Everybody (Getting Started with Python)
 - Introduction to CSS3
 - Introduction to Typography
+- Python Data Structures
 
 Each courses certificates, if provided, are available in its respective folders as a .pdf document
 
 Are in progress:
 
 - The Art of Music Production
-- Python Data Structures

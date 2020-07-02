@@ -1,0 +1,5 @@
+# Developing Your Musicianshi
+
+Offered by Berklee College of Music
+
+Taught by George W. Russell, Jr., a professor in the Harmony and Piano departments at Berklee College of Music, where has received the Distinguished Faculty Award (2012), the Berklee Curriculum Award (2010), and the Ted Pease Award for Excellence in Teaching (2009). He previously served as the chairman of the Jazz department at the New England Conservatory of Music’s Extension Division. For 26 years, he educated gifted high school musicians during the summer at the Pennsylvania Governor's School for the Arts, where he was the chair of Jazz Studies. George has shared the stage with a number of legendary jazz artists, including George Duke, Bob Moses, Billy Pierce, Stan Strickland, Stanley Clarke, Lenny White, Semenya McCord, and Andy McGhee. He performs regularly with his trio, the George W. Russell, Jr., trio with drummer Sean Skeete and bassist Wesley Wirth. A native of Pittsburgh, PA, George received a bachelor’s degree in music education from Duquesne University in 1988, and a master’s degree in jazz studies from New England Conservatory of Music in 1990.

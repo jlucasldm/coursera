@@ -15,4 +15,5 @@ Each courses certificates, if provided, are available in its respective folders 
 
 Are in progress:
 
-- The Art of Music Production
+- Developing Your Musicianship
+- Using Python to Access Web Data

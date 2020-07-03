@@ -10,10 +10,10 @@ Every material I produced in all courses (and its certificates) enrolled by me d
 - Introduction to CSS3
 - Introduction to Typography
 - Python Data Structures
+- Using Python to Access Web Data
 
 Each courses certificates, if provided, are available in its respective folders as a .pdf document
 
 Are in progress:
 
 - Developing Your Musicianship
-- Using Python to Access Web Data

@@ -1,4 +1,5 @@
 # Building Web Applications in PHP
 
 Offered by Universidade de Michigan
+
 Taught by Charles Severance (a.k.a. Dr. Chuck), a Clinical Professor at the University of Michigan School of Information, where he teaches various technology-oriented courses including programming, database design, and Web development. Chuck has written a number of books including Using Google App Engine, and Python for Everybody. His research field is in the building of learning management systems such as Sakai, Moodle, Blackboard, ANGEL, and others. He was the chief architect for the Sakai Project, a learning management system used at about 300 schools worldwide and wrote the book Sakai: Free as in Freedom, that describes his experiences as one of the leaders of the project. In the mid-1990s he was the host of Internet:TCI, a national television talk show about the Internet that ran for several years on the TCI cable system. He was long-time a columnist for the IEEE Computer Magazine writing a monthly column called "Computing Conversations" that features video interviews with famous technology leaders and innovators.

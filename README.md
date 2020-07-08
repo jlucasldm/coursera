@@ -11,10 +11,10 @@ Every material I produced in all courses (and its certificates) enrolled by me d
 - Introduction to Typography
 - Python Data Structures
 - Using Python to Access Web Data
+- Building Web Applications in PHP
 
 Each courses certificates, if provided, are available in its respective folders as a .pdf document
 
 Are in progress:
 
 - Developing Your Musicianship
-- Building Web Applications in PHP

@@ -1,6 +1,6 @@
 # Coursera Materials
 
-Every material I produced in all courses (and its certificates) enrolled by me during my access to the Coursera (offered by the Federal University of Bahia). Until this update, are finished:
+Every material I produced in all courses (and its certificates) enrolled by me during my access to the Coursera (offered by the Federal University of Bahia). Until this update, I finished:
 
 - Buddhism and Modern Psychology
 - HTML, CSS and Javascript for Web Developers

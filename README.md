@@ -18,3 +18,4 @@ Each courses certificates, if provided, are available in its respective folders 
 Are in progress:
 
 - Developing Your Musicianship
+- Using Databases with Python

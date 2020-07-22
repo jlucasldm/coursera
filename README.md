@@ -10,12 +10,15 @@ Every material I produced in all courses (and its certificates) enrolled by me d
 - Introduction to CSS3
 - Introduction to Typography
 - Python Data Structures
+- Using Databases with Python
 - Using Python to Access Web Data
 - Building Web Applications in PHP
+- Introduction to Structured Query Language (SQL)
 
 Each courses certificates, if provided, are available in its respective folders as a .pdf document
 
 Are in progress:
 
 - Developing Your Musicianship
-- Using Databases with Python
+- Introduction to Imagemaking
+- Introdução à Ciência da Computação com Python Parte 1

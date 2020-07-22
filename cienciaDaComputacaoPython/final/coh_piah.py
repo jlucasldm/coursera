@@ -125,12 +125,12 @@ def le_assinatura():
     print("Bem-vindo ao detector automático de COH-PIAH.")
     print("Informe a assinatura típica de um aluno infectado:")
 
-    wal = float(input("Entre o tamanho médio de palavra:"))
-    ttr = float(input("Entre a relação Type-Token:"))
-    hlr = float(input("Entre a Razão Hapax Legomana:"))
-    sal = float(input("Entre o tamanho médio de sentença:"))
-    sac = float(input("Entre a complexidade média da sentença:"))
-    pal = float(input("Entre o tamanho medio de frase:"))
+    wal = float(input("Entre o tamanho médio de palavra: "))
+    ttr = float(input("Entre a relação Type-Token: "))
+    hlr = float(input("Entre a Razão Hapax Legomana: "))
+    sal = float(input("Entre o tamanho médio de sentença: "))
+    sac = float(input("Entre a complexidade média da sentença: "))
+    pal = float(input("Entre o tamanho medio de frase: "))
     return [wal, ttr, hlr, sal, sac, pal]
 
 
@@ -139,11 +139,11 @@ def le_textos():
     #   devolve uma lista contendo cada texto como um elemento'''
     i = 1
     textos = []
-    texto = input("Digite o texto " + str(i) + " (aperte enter para sair):")
+    texto = input("\nDigite o texto " + str(i) + " (aperte enter para sair):")
     while texto:
         textos.append(texto)
         i += 1
-        texto = input("Digite o texto " + str(i) +
+        texto = input("\nDigite o texto " + str(i) +
                       " (aperte enter para sair):")
     return textos
 
@@ -199,14 +199,21 @@ def n_palavras_diferentes(lista_palavras):
     return len(freq)
 
 
-def compara_assinatura(as_a, as_b):
+def compara_assinatura(as_a, as_b): #as_b é o valor de entrada do programa
     #   '''IMPLEMENTAR. Essa funcao recebe duas assinaturas de
     #   texto e deve devolver o grau de similaridade nas
     #   assinaturas.'''
-    pass
+    i = 0
+    soma = 0
+    while i < 6:    #i itera sobre os diferentes indices de COH-PIAH
+        soma += abs(as_a[i] - as_b[i])
+        i += 1
+    probabilidade = soma/6
+    return probabilidade
 
 
 def calcula_assinatura(texto):
+    # Retorna uma lista com todos os índices de um texto
     assinatura = []
     assinatura.append(tamanho_medio_palavra(lista_palavras(texto)))
     assinatura.append(relacao_type_token(texto))
@@ -217,13 +224,23 @@ def calcula_assinatura(texto):
     return assinatura
 
 
-def avalia_textos(textos, ass_cp):
+def avalia_textos(textos, ass_cp):  #ass_cp é a assinatura de um texto infectado
     #   '''IMPLEMENTAR. Essa funcao recebe uma lista de textos
     #   e uma assinatura ass_cp e deve devolver o numero (1 a n)
     #   do texto com maior probabilidade de ter sido infectado
     #   por COH-PIAH.'''
-    pass
-
+    maior_probabilidade = 0
+    count_autor = 0
+    count = 0
+    for i in textos:
+        assinatura_texto = calcula_assinatura(i)
+        probabilidade = compara_assinatura(assinatura_texto, ass_cp)
+        if probabilidade > maior_probabilidade:
+            maior_probabilidade = probabilidade
+            count_autor = count
+        count += 1
+    print('\nO autor do texto', count_autor,'está infectado com COH-PIAH')
+    return count_autor
 
 ### Minhas funções ###
 
@@ -308,3 +325,10 @@ def tamanho_medio_frase(texto):
     for i in lst_frase:
         caracteres_frase += len(i)
     return caracteres_frase/len(lst_frase)
+
+
+
+### Começo do programa ###
+assinatura_infectada = le_assinatura()
+textos = le_textos()
+avalia_textos(textos, assinatura_infectada)
